@@ -1,0 +1,13 @@
+[2022-09-07T01:29:59,941][INFO ][o.e.x.m.MlDailyMaintenanceService] [LAPTOP-5QDRS3J4] triggering scheduled [ML] maintenance tasks
+[2022-09-07T01:30:00,048][INFO ][o.e.x.m.a.TransportDeleteExpiredDataAction] [LAPTOP-5QDRS3J4] Deleting expired data
+[2022-09-07T01:30:00,409][INFO ][o.e.x.m.a.TransportDeleteExpiredDataAction] [LAPTOP-5QDRS3J4] Completed deletion of expired ML data
+[2022-09-07T01:30:00,411][INFO ][o.e.x.m.MlDailyMaintenanceService] [LAPTOP-5QDRS3J4] Successfully completed [ML] maintenance tasks
+[2022-09-07T09:41:17,910][INFO ][o.e.x.s.SnapshotRetentionTask] [LAPTOP-5QDRS3J4] starting SLM retention snapshot cleanup task
+[2022-09-07T09:41:58,946][INFO ][o.e.n.Node               ] [LAPTOP-5QDRS3J4] stopping ...
+[2022-09-07T09:41:59,016][INFO ][o.e.x.w.WatcherService   ] [LAPTOP-5QDRS3J4] stopping watch service, reason [shutdown initiated]
+[2022-09-07T09:41:59,027][INFO ][o.e.x.w.WatcherLifeCycleService] [LAPTOP-5QDRS3J4] watcher has stopped and shutdown
+[2022-09-07T09:41:59,303][INFO ][o.e.x.m.p.l.CppLogMessageHandler] [LAPTOP-5QDRS3J4] [controller/30032] [Main.cc@150] Ml controller exiting
+[2022-09-07T09:41:59,316][INFO ][o.e.x.m.p.NativeController] [LAPTOP-5QDRS3J4] Native controller process has stopped - no new native processes can be started
+[2022-09-07T09:41:59,444][INFO ][o.e.n.Node               ] [LAPTOP-5QDRS3J4] stopped
+[2022-09-07T09:41:59,446][INFO ][o.e.n.Node               ] [LAPTOP-5QDRS3J4] closing ...
+[2022-09-07T09:41:59,637][INFO ][o.e.n.Node               ] [LAPTOP-5QDRS3J4] closed
